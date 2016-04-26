@@ -1,0 +1,28 @@
+name: basnugroho
+favicon: null
+layout_spectrum: 0.5928992659319192
+typography_spectrum: 0.180453090230003
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.6845465418882668
+  lightness: 0.30214921198785305
+  saturation: 0.7595837232656777
+  rhythmicContrast: 0.35595360305160284
+purpose: []
